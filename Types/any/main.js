@@ -1,0 +1,11 @@
+var avenger = 123;
+var exist;
+var defeats;
+avenger = 'Dr. Strange';
+console.log(avenger.charAt(0));
+avenger = 150.5555;
+console.log(avenger.toFixed(2));
+avenger = true;
+console.log(avenger);
+console.log(exist);
+console.log(defeats);
