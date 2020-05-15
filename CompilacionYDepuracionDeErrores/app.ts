@@ -1,3 +1,8 @@
+/**
+ * Esto es un comentario de multiple linea
+ * .......
+ */
+
 let hero: string = 'Robin'
 let age: number = 30
 
